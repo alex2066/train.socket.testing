@@ -17,6 +17,21 @@ Some change 4
 
 > This is the first level of quoting.
 >
->>> This is nested blockquote.
+>>> This is nested blockquote.<br>
+
+Next line
 >
 > Back to first level.
+
+Ordered lists use numbers followed by perionds:
+1. Bird
+
+   Seconnd paragraph.
+1\. McHale
+1. Parish
+
+* A list item with blockquote:
+> This is a blockquote
+> inside a list item.
+* A list item with a code block:
+        <code goes here>
