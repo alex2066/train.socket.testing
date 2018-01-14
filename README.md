@@ -30,9 +30,10 @@ Ordered lists use numbers followed by perionds:
 1\. McHale
 1. Parish
 
-1 A list item with blockquote:
+1. A list item with blockquote:
 > This is a blockquote
 > inside a list item.
-1 A list item with a code block:
+
+1. A list item with a code block:
              code goes here
-1 List
+1. List
