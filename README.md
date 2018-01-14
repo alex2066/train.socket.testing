@@ -34,11 +34,11 @@ Ordered lists use numbers followed by perionds:
   > This is a blockquote
   > inside a list item.
 * A list item with a code block:
+
              code goes here
 * List
+* Here is an example of AppleScript:
 
-Here is an example of AppleScript:
-
-    tell application "Foo"
-        beep
-    end tell
+        tell application "Foo"
+            beep
+        end tell
