@@ -43,8 +43,8 @@ Ordered lists use numbers followed by perionds:
             beep
         end tell
        
- * * *
- ***
+ *  * *
+ * *
  ****
  - - -
  ------------
