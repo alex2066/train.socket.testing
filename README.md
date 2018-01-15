@@ -42,3 +42,9 @@ Ordered lists use numbers followed by perionds:
         tell application "Foo"
             beep
         end tell
+       
+ * * *
+ ***
+ ****
+ - - -
+ ------------
