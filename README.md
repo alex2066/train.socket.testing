@@ -45,6 +45,6 @@ Ordered lists use numbers followed by perionds:
        
  *  * *
  * *
- ****
+ **
  - - -
  ------------
