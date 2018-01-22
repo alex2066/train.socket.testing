@@ -1,0 +1,62 @@
+Bold (constrained) *bold*
+Bold (unconstrainded) **b**old
+*b*old
+
+_italic_
+__i__talic
+
+`monospace`
+``m``onospace
+
+Link with label http://asciidoc.org/[AsciiDoc]
+
+Relativ link link:../structure[directory structure]
+
+File link link:{ctx_path}/assets/mydoc.pdf[get the PDF]
+Cross reference <<attribute-catalog>>
+
+Inline Image w/ Alt Text image:logo.png{Logo]
+Block Image w/Alt Text image::logo.png[Logo]
+
+== Heading 2
+[quote]
+____
+Quoted text.
+
+Another paragraph in quote.
+____
+[source,java]
+----
+public class Person {
+}
+----
+
+* apples
+* oranges
+** temple
+** navel
+* bananas
+
+. first
+. second
+. third
+
+'''
+
+= Writing posts
+:awestruct-layout: base
+:showtitle:
+:prev_section: defining-frontmatter
+:next_section: creating-pages
+
+Admonitions
+
+[TIP, caption='ProTip(TM)']
+.Show line numbers
+You can add line number to source listings by adding the word `numbered` in the attribute list after the language name.
+
+Typographic (aka "Smart") Quotes One of Jekyll's best aspects is that it is "`blog aware`".
+
+Incluses incluse::intro.adoc[]
+
+Custom CSS classes [.path]_Gemfile_
