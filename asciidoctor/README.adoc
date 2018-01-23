@@ -11,6 +11,12 @@ The {dbl_}kernel qualifier can be used with the {dbl_}attribute{dbl_} keyword...
 
 #`CB{3H}2`# and #`CB{3H}3`#
 
++CB{3H}2+ and +CB{3H}3+
+
+The +__kernel+ qualifier can be used with the +__attribute__+ keyword...
+
+#`+CB###2+`# and #`+CB###3+`#
+
 
 Unconstrained formating edge cases "```endpoints```", "``endpoints``", "`endpoints`"
 
